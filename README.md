@@ -21,5 +21,5 @@ You can access the saved model file `handwritten.ipynb` directly from this GitHu
 Alternatively, if you are using Google Colab, you can clone this repository and load the model using the following steps:
 
 **Clone the repository:**
-https://github.com/chaurasiyanshul/Guvi-Project-3.git
-```
+
+``` https://github.com/chaurasiyanshul/Guvi-Project-3.git
