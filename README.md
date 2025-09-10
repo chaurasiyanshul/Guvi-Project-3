@@ -22,4 +22,4 @@ Alternatively, if you are using Google Colab, you can clone this repository and 
 
 **Clone the repository:**
 
-``` https://github.com/chaurasiyanshul/Guvi-Project-3.git
+``` https://github.com/chaurasiyanshul/Guvi-Project-3.git ```
